@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1518512842 source:c:\users\dell\desktop\c++ codes\resource manager\resource manager\resource manager.cpp
+	<iostream>
+	<list>
+	<fstream>
+	<conio.h>
+	<string>
+	<vector>
+	<sstream>
+
+1518531280 source:c:\users\dell\desktop\c++ codes\resource manager\resource manager.cpp
+	<iostream>
+	<list>
+	<fstream>
+	<conio.h>
+	<string>
+	<vector>
+	<sstream>
+
+1548898556 source:c:\users\sadan\desktop\c++ practice\resource manager\resource manager.cpp
+	<iostream>
+	<list>
+	<fstream>
+	<conio.h>
+	<string>
+	<vector>
+	<sstream>
+
